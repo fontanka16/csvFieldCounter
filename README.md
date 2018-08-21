@@ -1,2 +1,3 @@
+Forked to https://github.com/FOLIO-FSE/csvFieldCounter. Work continues there...
 # csvFieldCounter
 A python3 script counting the usage of different columns (fields) in csv files
